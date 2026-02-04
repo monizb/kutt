@@ -1,6 +1,7 @@
 <p align="center"><a href="https://kutt.it" title="kutt.it"><img src="https://raw.githubusercontent.com/thedevs-network/kutt/9d1c873897c3f5b9a1bd0c74dc5d23f2ed01f2ec/static/images/logo-github.png" alt="Kutt.it"></a></p>
 
 # Kutt.it
+<img width="667" height="306" alt="comp_group" src="https://github.com/user-attachments/assets/5c6074fe-e10f-4d32-b3f1-628c505c9775" />
 
 **Kutt** is a modern URL shortener with support for custom domains. Shorten URLs, manage your links and view the click rate statistics.
 
